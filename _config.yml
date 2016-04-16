@@ -1,0 +1,21 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+title: fn(x)
+email: contato@falmeida.co
+description: > # this means to ignore newlines until "baseurl:"
+  Blog oficial do projeto da aplicação multimídia "Equilibrando P
+  roporções 2.0", criado pela equipe do curso de Sistemas e 
+  Mídias Digitais (UFC), quem tem como integrantes Felipe Almeida e Nathan Chausse. 
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://smdufc.github.io/fnx" # the base hostname & protocol for your site
+twitter_username: dflip
+github_username:  smdufc
+
+# Build settings
+markdown: kramdown
