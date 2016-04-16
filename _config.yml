@@ -13,7 +13,7 @@ description: > # this means to ignore newlines until "baseurl:"
   roporções 2.0", criado pela equipe do curso de Sistemas e 
   Mídias Digitais (UFC), quem tem como integrantes Felipe Almeida e Nathan Chausse. 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://smdufc.github.io/fnx" # the base hostname & protocol for your site
+url: "http://smdufc.github.io/fnx/" # the base hostname & protocol for your site
 twitter_username: dflip
 github_username:  smdufc
 
